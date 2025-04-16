@@ -1,6 +1,5 @@
 # Turf Booking System
-
-A full-stack web application for managing sports turf bookings. Built with React.js, Node.js, Express, and MongoDB.
+I developed an application that allows students to check the availability of the turf and padel courts in real time. Previously, students had to physically walk from their classrooms to the sports area just to find out if the courts were free. This app was built to solve that real-world inconvenience and improve the overall campus experience
 
 ## Features
 
